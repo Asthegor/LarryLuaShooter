@@ -11,7 +11,7 @@ ___Objectif___ : détruire les différents ennemis pour obtenir un maximum de po
 ___Base de départ___ : tutoriel du site Gamecodeur
 
 __Ajouts :__
-Système de génération aléatoire d'ennemis (en nombre et position)
-Système d'introduction semi-automatisée
+- Système de génération aléatoire d'ennemis (en nombre et position)
+- Système d'introduction semi-automatisée
 
 Vidéo de démonstration : https://youtu.be/dku-oGIG9Ss
