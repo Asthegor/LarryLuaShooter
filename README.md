@@ -1,7 +1,7 @@
 # LarryShooter
 ## Framework / Engin : Löve2D (Lua)
-###### Version actuelle : 1.0 (2016-05-05)
-#### Projet initié le : 2016-04-20
+#### Version actuelle : 1.0 (2016-05-05)
+###### Projet initié le : 2016-04-20
 
 ## Description
 Shoot'em up à défilement vertical
