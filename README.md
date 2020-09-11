@@ -1,12 +1,16 @@
-# LarryLuaShooter
+# LarryShooter
+## Framework / Engin : Löve2D (Lua)
+###### Version actuelle : 1.0 (2016-05-05)
+#### Projet initié le : 2016-05-05
 
+## Description
 Shoot'em up à défilement vertical
 
-Objectif : détruire les différents ennemis pour obtenir un maximum de points
+___Objectif___ : détruire les différents ennemis pour obtenir un maximum de points
 
-Base de départ : tutoriel du site Gamecodeur
+___Base de départ___ : tutoriel du site Gamecodeur
 
-Ajouts :
+__Ajouts :__
 Système de génération aléatoire d'ennemis (en nombre et position)
 Système d'introduction semi-automatisée
 
