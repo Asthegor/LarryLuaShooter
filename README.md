@@ -10,4 +10,4 @@ Ajouts :
 Système de génération aléatoire d'ennemis (en nombre et position)
 Système d'introduction semi-automatisée
 
-https://youtu.be/dku-oGIG9Ss
+Vidéo de démonstration : https://youtu.be/dku-oGIG9Ss
